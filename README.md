@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FanZ
 - 👀 I’m interested in product development
 - 🌱 I’m currently learning react and golang
--🪐 And blockchain and metaverse!
+- 🪐 And blockchain and metaverse!
 - 📫 Pls reach me at fanzhang at berkeley.edu
 
 <!---
